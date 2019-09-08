@@ -1,0 +1,6 @@
+==========
+API
+==========
+
+.. automodule:: src.dummy
+   :members:
